@@ -1,5 +1,5 @@
-````html
 <!-- BANNER -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:0969DA,100:58A6FF&text=Gustavo%20Oliveira&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Python&descAlignY=58&descSize=17"/>
@@ -48,7 +48,7 @@ const gustavo = {
     tecnologias: ["React", "TypeScript", "JavaScript", "Python"],
     objetivo: "Transformar problemas reais em soluções através da tecnologia"
 };
-````
+```
 
 * 🎓 Estudante de **Engenharia da Computação**
 * 💻 Foco em **Desenvolvimento Front-End**
@@ -190,9 +190,19 @@ Meu portfólio profissional, criado para apresentar meus projetos, tecnologias e
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Oliveiraa11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oliveiraa11&theme=github_dark" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiraa11&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oliveiraa11&theme=github_dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Oliveiraa11&theme=github_dark&utcOffset=-3" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oliveiraa11&theme=github_dark" />
 
 </div>
 
@@ -252,4 +262,3 @@ Estou sempre aberto a conhecer novos projetos, trocar experiências e explorar o
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:0969DA,100:58A6FF&section=footer"/>
 
 </div>
-```

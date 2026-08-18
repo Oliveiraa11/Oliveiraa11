@@ -38,9 +38,7 @@ Atualmente trabalho principalmente com <strong>React, TypeScript, JavaScript e P
 
 ---
 
-## 👨‍💻 Sobre mim
-
-javascript
+👨‍💻 Sobre mim
 const gustavo = {
     area: "Desenvolvimento de Software",
     foco: ["Front-End", "Aplicações Web", "Sistemas"],
@@ -48,7 +46,6 @@ const gustavo = {
     tecnologias: ["React", "TypeScript", "JavaScript", "Python"],
     objetivo: "Transformar problemas reais em soluções através da tecnologia"
 };
-
 
 * 🎓 Estudante de **Engenharia da Computação**
 * 💻 Foco em **Desenvolvimento Front-End**
